@@ -34,9 +34,9 @@
     "reflect-metadata": "^0.2.2",
     "rimraf": "^6.0.1",
     "rxjs": "^7.2.0",
-    "sqlite3": "^5.1.7",
+    "sqlite3": "^6.0.1",
     "swagger-themes": "^1.4.3",
-    "typeorm": "^0.3.26"
+    "typeorm": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.1.0",
